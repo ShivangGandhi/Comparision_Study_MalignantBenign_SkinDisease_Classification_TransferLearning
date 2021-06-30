@@ -1,1 +1,1 @@
-# Comparision_Study_MalignantBenign_SkinDisease_Classification_TransferLearning
+# Comparision of Malignant and Benign Melanoma Skin Diseases using Transfer Learning Techniques
